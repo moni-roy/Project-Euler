@@ -10,7 +10,3 @@ elapsed = time.time() - start
 print("%s found in %.10lf seconds") % (ans,elapsed)
 
 #25164150 found in 0.0000021458 seconds
-
-
-
-
